@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nayanika2304
-- 👀 I’m interested in Full Stack Development with experience in React,JavaScript & HTML/CSS, Node/Express, Django(beginner), Python
+- 👀 I’m interested in Full Stack Development with experience in React & Redux,JavaScript & HTML/CSS, Node/Express, Django(beginner), Python
 - 🌱 I’m currently learning Javascript in depth, React new features, Node and Express with Mongo DB, AWS for cloud solutions 
 - 💞️ I’m looking to collaborate on challenging projects 
 - 📫 How to reach me nayanikabhargava1993@gmail.com
