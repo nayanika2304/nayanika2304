@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nayanika2304
-- 👀 I’m interested in Full Stack Development with experience in React & Redux,JavaScript & HTML/CSS, Node/Express, Django(beginner), Python. I am also interested in working on creating interactive maps using Mapbox for data visualization.  
+- 👀 I’m interested in Full Stack Development with experience in React & Redux,JavaScript & HTML/CSS, Node/Express, Django(beginner), Python. I am also interested in working on creating interactive maps using Mapbox,Turf.js, QGIS and Nivo.js for data visualization.  
 - 🌱 I’m currently learning Javascript in depth, React new features, Node and Express with Mongo DB
 - 💞️ I’m looking to collaborate on challenging projects 
 - 📫 How to reach me nayanikabhargava1993@gmail.com
